@@ -1,0 +1,12 @@
+# Downloaded and generated datasets
+wiki_movie_plots_deduped.csv
+movies_real.csv
+
+# Saved database and personal app data
+chroma_store/
+loaded_sources.json
+watchlist.json
+
+# Python environment and temporary files
+.venv/
+__pycache__/
